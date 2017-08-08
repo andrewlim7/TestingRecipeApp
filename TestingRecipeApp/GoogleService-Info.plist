@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>533862264644-950c1e6ku8pm7h2egva5rubpkea1qulf.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.533862264644-950c1e6ku8pm7h2egva5rubpkea1qulf</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCpJpcZFItljdy3RFBTjBnYlsq1RVpi4ic</string>
+	<key>GCM_SENDER_ID</key>
+	<string>533862264644</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.andrewlim7.TestingRecipeApp</string>
+	<key>PROJECT_ID</key>
+	<string>testingrecipeapp</string>
+	<key>STORAGE_BUCKET</key>
+	<string>testingrecipeapp.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:533862264644:ios:0375f04f57509537</string>
+	<key>DATABASE_URL</key>
+	<string>https://testingrecipeapp.firebaseio.com</string>
+</dict>
+</plist>
